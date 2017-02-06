@@ -1,2 +1,2 @@
 require('./dist/ng-onboarding');
-module.exports = 'ng-onboarding';
+module.exports = 'ngOnboarding';
